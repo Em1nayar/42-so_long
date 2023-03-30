@@ -4,8 +4,6 @@
 
 Tester for wrong maps in 42 So_Long project.
 
-To see my project [click here](https://github.com/jlebre/so_long) !
-
 #
 
 Test 1 - No Map!
